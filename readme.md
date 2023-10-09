@@ -1,6 +1,10 @@
 # 基于SSM的二手物品交易管理系统7
 
+## 获取方式
 
+扫描下方，回复关键词  ： **二手** ，以获取源码  
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
