@@ -1,10 +1,6 @@
 # 基于SSM的二手物品交易管理系统7
 
-## 获取方式
 
-扫描下方，回复关键词  ： **二手** ，以获取源码  
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -35,45 +31,42 @@
 
 ### 4.1 登录
 
-![登录](https://s2.loli.net/2023/10/09/iDy6HN9dl1ET48A.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202311162011919.jpg)
 
 ### 4.2 前端模块
 
-![首页](https://s2.loli.net/2023/10/09/z3cAHlZCVUnR6vO.jpg)
+![商品详情](https://www.codeshop.fun/Typora-Images/202311162012364.jpg)
 
-![商品详情](https://s2.loli.net/2023/10/09/VOiMakrQm7hZWE4.jpg)
-
-![购物车](https://s2.loli.net/2023/10/09/ZALbdHqfINE97i6.jpg)
+![购物车](https://www.codeshop.fun/Typora-Images/202311162012354.jpg)
 
 ### 4.3用户 模块
 
-![用户-收货地址管理](https://s2.loli.net/2023/10/09/gvJMFTwtKLVseRd.jpg)
+![用户-下单界面](https://www.codeshop.fun/Typora-Images/202311162012792.jpg)
 
-![用户-下单界面](https://s2.loli.net/2023/10/09/1apzr7l5bG2qMNm.jpg)
+![用户-订单管理](https://www.codeshop.fun/Typora-Images/202311162012784.jpg)
 
-![用户-订单管理](https://s2.loli.net/2023/10/09/18HEFq9kXWMlDLj.jpg)
+![用户-收货地址管理](https://www.codeshop.fun/Typora-Images/202311162012806.jpg)
 
 ### 4.4 管理员模块
 
-![管理员-会员管理](https://s2.loli.net/2023/10/09/WL4bVyhZqunxEJM.jpg)
+![管理员-商品管理](https://www.codeshop.fun/Typora-Images/202311162012114.jpg)
 
-![管理员-商品分类管理](https://s2.loli.net/2023/10/09/QDzuiTZhtxmpKBj.jpg)
+![管理员-订单管理](https://www.codeshop.fun/Typora-Images/202311162012149.jpg)
 
-![管理员-商品管理](https://s2.loli.net/2023/10/09/T5XkoZHuERn78Qw.jpg)
+![管理员-会员管理](https://www.codeshop.fun/Typora-Images/202311162012161.jpg)
 
-![管理员-订单管理](https://s2.loli.net/2023/10/09/i4hGraofD7Rk3qn.jpg)
+![管理员-商品分类管理](https://www.codeshop.fun/Typora-Images/202311162012178.jpg)
 
 ### 4.5 文档目录
 
-![文档目录](https://s2.loli.net/2023/10/09/U6HL4faBN1Wu9S8.jpg)
-
-### 获取方式&视频演示
-
-下方扫一下，回复关键词：二手
-
-![202309291447341](https://s2.loli.net/2023/10/06/lxLMirNn2tyaIob.png)
+![文档目录](https://www.codeshop.fun/Typora-Images/202311162011746.jpg)
 
 
 
 
+## 获取方式
+
+下方扫一扫关注后，后台回复关键词：**二手**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
